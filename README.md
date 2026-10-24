@@ -34,4 +34,4 @@ sudo pacman -U gnome-layout-switcher-0.8.40-2-any.pkg.tar.zst
 
 ## Licença
 
-Consulte a licença do projeto original no repositório do Manjaro. <Confirme o tipo de licença antes de publicar>
+Consulte a licença do projeto original no repositório do Manjaro. <GPL-3.0-or-later>
